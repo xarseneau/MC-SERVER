@@ -6,6 +6,11 @@ hash = "5dc9467692716e16d99b3a5e030fa78cfa92614b65004ed48228eaf912dc8330"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "c8749577ee3f4096edfe9de68d9103668a398dc03a6728f2ed971bc5496443cb"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "89dbe431d61adfbdc7064c5c82ba7e0e5d7252ee698b497c50b0c90700c270db"
 metafile = true

@@ -70,6 +70,10 @@ hash = "c033a600be476203f24535419f3bca30456d21241bd48e17c2da580003c9a84b"
 metafile = true
 
 [[files]]
+file = "mods/zerocontact-1.1.6+neoforge.26.2.port1.jar"
+hash = "acb030b3201b45315a2327c0eac4934b14c2972602160269020db2015faca389"
+
+[[files]]
 file = "tacz/CIBR_GunsPack_v0.3.zip"
 hash = "40797ee6fc734de14e3065e80f85a61efa67207af9914d24084b3b680a8aba60"
 

@@ -11,6 +11,10 @@ hash = "b36ba4e8c959ac404985ef1dd7a905496616c899742d5efd55c86571c10ff371"
 metafile = true
 
 [[files]]
+file = "mods/geckolib-neoforge-26.2-5.5.6.jar"
+hash = "32f91b9e6d5f62dab0740a0cec1a1f5619aaa07a0249c250df2f7918eb0c30e2"
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "89dbe431d61adfbdc7064c5c82ba7e0e5d7252ee698b497c50b0c90700c270db"
 metafile = true
@@ -19,6 +23,10 @@ metafile = true
 file = "mods/irisshaders.pw.toml"
 hash = "a69aeb65fd4909588add60db21959dd4d13076c5d2afeb949b835a82f76ccb9a"
 metafile = true
+
+[[files]]
+file = "mods/jagtaczarmor-1.0.9+neoforge.26.2.port1-1.jar"
+hash = "75ac30c13531c630e72a746a2246f82a1d73067b6cfba58b7ac41f28d62aeeff"
 
 [[files]]
 file = "mods/shogi.pw.toml"
@@ -64,3 +72,15 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "c033a600be476203f24535419f3bca30456d21241bd48e17c2da580003c9a84b"
 metafile = true
+
+[[files]]
+file = "tacz/Suffuse-GunSmoke-Pack1.0.7--hotfix.zip"
+hash = "db829e453f38ec5e91731b90ea48ea13b062e5bd936a12b27407cefba752e439"
+
+[[files]]
+file = "tacz/TTI_Gunpack-v1.0.0-26.2.zip"
+hash = "27ce79ee40a25aa8b1586c76a2d071c835ef2ace908c3be74d8f5d076af1d5d1"
+
+[[files]]
+file = "tacz/[Tacz1.1.7+]CIBR_GunsPack_v0.3_1.1.7.zip"
+hash = "40797ee6fc734de14e3065e80f85a61efa67207af9914d24084b3b680a8aba60"

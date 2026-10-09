@@ -1,0 +1,13 @@
+name = "TaCZ Tweaks (Refabricated)"
+filename = "tacztweaks-2.14.2+neoforge.26.2.Beta-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8f48ac7b08d7a31cde7ab3df2ad24cad5b0d75e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8711570
+project-id = 1659175

@@ -1,0 +1,66 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "5dc9467692716e16d99b3a5e030fa78cfa92614b65004ed48228eaf912dc8330"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "b36ba4e8c959ac404985ef1dd7a905496616c899742d5efd55c86571c10ff371"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "89dbe431d61adfbdc7064c5c82ba7e0e5d7252ee698b497c50b0c90700c270db"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "a69aeb65fd4909588add60db21959dd4d13076c5d2afeb949b835a82f76ccb9a"
+metafile = true
+
+[[files]]
+file = "mods/shogi.pw.toml"
+hash = "0a7904d7260968c80855dd5ec50b9547fa13a7cdd8c2c6c8a9899a813c1c09b2"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "25873967e66f6eb779b745380c42e084e28c0b5bc04a1b235349424ce526fafd"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "a9948bfb14e981b38b1b7de8029cffc1f8f6cb2f3ac8cbb4ade0343ba989cac7"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "e62cadb632c9a9bd739064c49d90d8da9e6ef43999e2a160fba57f503b04741f"
+metafile = true
+
+[[files]]
+file = "mods/tacz-tweaks-refabricated.pw.toml"
+hash = "3c411cb03359de9123f4d94eab4aa24b8744f82c940d5d5b796b96816f212d56"
+metafile = true
+
+[[files]]
+file = "mods/unofficial-tacz-renovated.pw.toml"
+hash = "ae711758b2e6cd60a912093e16aca01e39bbb759edad8c1ae19d7abb48739c3a"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "5d49ed3f591598f592dd9c8d22229a580cd073b77e18908fbeb8d272e958358c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "acfb24d5fd85a4a448a699ff58ea4c4ee68168a67cec6ee70dd2aa74bc1e7f67"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c033a600be476203f24535419f3bca30456d21241bd48e17c2da580003c9a84b"
+metafile = true

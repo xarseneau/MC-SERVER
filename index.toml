@@ -25,6 +25,16 @@ file = "mods/jagtaczarmor-1.0.9-neoforge-26.2-port1.jar"
 hash = "75ac30c13531c630e72a746a2246f82a1d73067b6cfba58b7ac41f28d62aeeff"
 
 [[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "ae11cd1993e7820e664479041b3352ce6e80428962685a74deeceb9fd906d7fa"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "1fcc0d908adf44f875e7748c8792a800ddfa7afcec118feb40de547200728573"
+metafile = true
+
+[[files]]
 file = "mods/shogi.pw.toml"
 hash = "0a7904d7260968c80855dd5ec50b9547fa13a7cdd8c2c6c8a9899a813c1c09b2"
 metafile = true
